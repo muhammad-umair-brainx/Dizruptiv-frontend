@@ -144,6 +144,15 @@ section img{
         padding-right: 30px;
     }
 
+    .mobile{
+        display: block!important;
+    }
+
+    .desktop{
+        display: none !important;
+    }
+
+
     .intro h1{
         padding-top: 5px !important;
         font-size: 22px !important;
@@ -218,7 +227,7 @@ section img{
     .about-btn{
         width: 100px !important;
         height: 40px ;
-        box-shadow: 5px 5px 5px 5px #FFC0C0!important;
+        /*box-shadow: 5px 5px 5px 5px #FFC0C0!important;*/
     }
 
     .books-list img{
@@ -306,7 +315,10 @@ section img{
         padding-bottom: 30px;
     }
 
-
+    .box-wraper {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
 }
 
 /*Only for Desktop*/
@@ -881,6 +893,13 @@ footer a:hover{
     padding-top: 60px;
 }
 
+.mobile{
+    display: none;
+}
+
+.desktop{
+    display: block;
+}
 
 .books-back{
     width: 100%;

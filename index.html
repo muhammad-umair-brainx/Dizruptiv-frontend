@@ -36,11 +36,11 @@
           <div class="navbar-collapse collapse" id="navbarsExample04">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
-                <a class="nav-link nav-link-mobile" href="#">Login</a>
+                <a class="nav-link nav-link-mobile" href="https://www.dizruptiv.com/members/login">Login</a>
               </li>
               <!--<hr width="1" ="5" color="#FFFFFF">-->
               <li class="nav-item">
-                <a class="nav-link nav-link-mobile" href="#">Register</a>
+                <a class="nav-link nav-link-mobile" href="https://dizruptiv.com/freemembership/">Register</a>
               </li>
             </ul>
           </div>
@@ -57,7 +57,7 @@
           <p class="text-center">We Are What You Need To Be Profitable...</p>
 
           <div class="text-center" >
-            <button class="dizButton intro-btn">Join Now</button>
+              <a href="https://dizruptiv.com/freemembership/"><button  class="dizButton intro-btn">Join Now</button></a>
           </div>
         </div>
       </section>
@@ -115,12 +115,9 @@
 
           <h2 class="text-center heading-width">INTERESTERD IN GETTING STARTED NOW? WATCH THIS:</h2>
           <div align="center"><hr width="50px" style="height: 5px" color="red"></div>
-          <!--<img src="img/video/video.png"  alt="" width="80%" style="box-shadow: 0px 20px 76px 0 rgba(43, 43, 43, 0.55);">-->
 
-          <video  poster="img/video/video.png" controls>
-            <source src="img/vid.m4v" type="video/mp4">
-            <!--<iframe style="border-radius: 5px" width="80%" height="400px" src="https://www.youtube.com/embed/tgbNymZ7vqY">-->
-            <!--</iframe>-->
+          <video id="video" poster="img/video/video.png" controls>
+            <source src="img/vid.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
 
@@ -131,7 +128,7 @@
           </p>
           <div class="text-center " >
             <!--<button class="dizButton video-btn">Join Now</button>-->
-            <input type="button" class="dizButton video-btn" value="Join Now">
+              <a href="https://dizruptiv.com/freemembership/"><input type="button" class="dizButton video-btn" value="Join Now"> </a>
           </div>
         </div>
       </section>
@@ -289,7 +286,8 @@
       </section>
 
       <section class="why">
-        <img class="books-back"  src="img/laptop/banner.png">
+        <img class="books-back desktop"  src="img/laptop/banner.png">
+          <img class="books-back mobile"  src="img/why/banner@2x.png">
         <div class="section-content">
           <h1  class="text-center heading-width">NO MATTER WHAT YOUR GOALS IN THE CRYPTO SPACE ARE, <br>
             THE DIZRUPTIV FORUMS WILL GIVE YOU THE TOOLS <br>
@@ -414,7 +412,7 @@
 
         <div class="text-center " >
           <!--<button class="dizButton video-btn">Join Now</button>-->
-          <input type="button" class="dizButton video-btn" value="Join Now">
+            <a href="https://dizruptiv.com/freemembership/"><input type="button" class="dizButton video-btn" value="Join Now"></a>
         </div>
       </section>
 
@@ -600,7 +598,7 @@
               <img class="about-arrow" src="img/about/left-arrow.png"  alt="">
             </div>
             <div  class="col-md-4 col-sm-4 col-8 text-center about-btn-div " >
-              <input type="button" class="dizButton about-btn" value="Join Now">
+                <a href="https://dizruptiv.com/freemembership/"><input type="button" class="dizButton about-btn" value="Join Now"></a>
             </div>
             <div class="col-sm-4 col-md-4 col-2 page-width">
               <img class="about-arrow" src="img/about/right-arrow.png" alt="">
@@ -624,9 +622,6 @@
     </footer>
 
 
-
-
-
    <!--Scripts links-->
 
   <script src="js/vendor/modernizr-3.6.0.min.js"></script>
@@ -642,6 +637,13 @@
     ga('create', 'UA-XXXXX-Y', 'auto'); ga('send', 'pageview')
   </script>
   <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+
+  <script>
+      var video = document.getElementById('video');
+      video.addEventListener('click',function(){
+          video.play();
+      },false);
+  </script>
 </body>
 
 </html>
