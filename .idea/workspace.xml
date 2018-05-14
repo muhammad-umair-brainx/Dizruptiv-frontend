@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8445c699-9a06-4a9d-af4d-02ee9bf9852d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/img/books/Coders Guide To  Blockchain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/books/Dizruptiv 2018  Investment Guide.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/books/Dizruptiv Forum Mining  &amp; Nodes Mastery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/books/Dizrutpiv Newbie  Guide.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/dizruptiv.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/dizruptiv.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/ALT Coin Cookbook.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/books/ALT Coin Cookbook.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/Coders Guide To.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/Dizruptiv 2018.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/Dizruptiv Forum Mining.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/Dizruptiv ICO Guide.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/books/Dizruptiv ICO Guide.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/Dizrutpiv Newbie.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/feature_2/iPad.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/feature_2/iPad.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/feature_2/laptop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/feature_2/mobile.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/feature_2/mobile.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/video/video.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/video/video.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11">
-              <caret line="216" column="31" selection-start-line="216" selection-start-column="22" selection-end-line="216" selection-end-column="31" />
+            <state relative-caret-position="-121">
+              <caret line="287" column="25" selection-start-line="287" selection-start-column="22" selection-end-line="287" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -63,8 +48,8 @@
       <file leaf-file-name="dizruptiv.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/dizruptiv.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="300" column="17" lean-forward="true" selection-start-line="300" selection-start-column="17" selection-end-line="300" selection-end-column="17" />
+            <state relative-caret-position="297">
+              <caret line="1060" column="17" selection-start-line="1060" selection-start-column="17" selection-end-line="1060" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -80,36 +65,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>abou</find>
-      <find>onl</find>
-      <find>foo</find>
-      <find>guara</find>
-      <find>grad</find>
-      <find>mobile-img</find>
-      <find>guarantee</find>
-      <find>laptop</find>
-      <find>feature</find>
-      <find>only for de</find>
       <find>navbar-nav</find>
       <find>vide</find>
       <find>nav-link</find>
       <find>footer</find>
-      <find>mobile</find>
-      <find>why</find>
       <find>button</find>
       <find>&lt;video</find>
       <find>box-wrap</find>
       <find>only for mobile</find>
       <find>diz</find>
       <find>what are</find>
-      <find>video</find>
       <find>no</find>
       <find>what's</find>
       <find>why-child</find>
       <find>no ma</find>
+      <find>mobile</find>
+      <find>no</find>
+      <find>private</find>
+      <find>feature-item</find>
+      <find>guarantee</find>
       <find>only</find>
+      <find>video</find>
+      <find>laptop</find>
       <find>books</find>
+      <find>books-l</find>
+      <find>feature_2 p</find>
       <find>feature_2</find>
+      <find>why-child h2</find>
+      <find>why-child p</find>
+      <find>why p</find>
+      <find>why</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -202,7 +187,7 @@
       <workItem from="1525932708175" duration="24461000" />
       <workItem from="1526013476746" duration="20442000" />
       <workItem from="1526039712322" duration="2569000" />
-      <workItem from="1526277890719" duration="3070000" />
+      <workItem from="1526277890719" duration="5469000" />
     </task>
     <task id="LOCAL-00001" summary="-video updated&#10;-box padding removed&#10;-links added">
       <created>1526041746728</created>
@@ -218,14 +203,22 @@
       <option name="project" value="LOCAL" />
       <updated>1526042278660</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="issues resolved&#10;::whats inside section text and margin&#10;::feature-2 section headings &#10;:: pictures updated">
+      <created>1526281106881</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1526281106881</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100644000" />
+    <option name="totallyTimeSpent" value="103043000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19463088" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -267,7 +260,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-video updated&#10;-box padding removed&#10;-links added" />
     <MESSAGE value="jian pic updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="jian pic updated" />
+    <MESSAGE value="issues resolved&#10;::whats inside section text and margin&#10;::feature-2 section headings &#10;:: pictures updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="issues resolved&#10;::whats inside section text and margin&#10;::feature-2 section headings &#10;:: pictures updated" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -459,8 +453,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
-          <caret line="216" column="31" selection-start-line="216" selection-start-column="22" selection-end-line="216" selection-end-column="31" />
+        <state relative-caret-position="-121">
+          <caret line="287" column="25" selection-start-line="287" selection-start-column="22" selection-end-line="287" selection-end-column="25" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -488,8 +482,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/dizruptiv.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="300" column="17" lean-forward="true" selection-start-line="300" selection-start-column="17" selection-end-line="300" selection-end-column="17" />
+        <state relative-caret-position="297">
+          <caret line="1060" column="17" selection-start-line="1060" selection-start-column="17" selection-end-line="1060" selection-end-column="17" />
         </state>
       </provider>
     </entry>

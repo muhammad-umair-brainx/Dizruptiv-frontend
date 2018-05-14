@@ -148,6 +148,11 @@ section img{
         display: block!important;
     }
 
+    .guarantee-des p{
+
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
     .grad1-left h2{
         text-align: center !important;
     }
@@ -448,6 +453,15 @@ section img{
 
 .feature-item p{
     padding-top: 20px;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.39;
+    letter-spacing: 0.9px;
+    text-align: center;
+    color: #262525;
 }
 
 .feature{
@@ -499,7 +513,8 @@ section img{
 
 .video p{
 
-    padding-top: 30px;
+    padding-top: 60px;
+    padding-bottom: 50px;
     font-family: Montserrat;
     font-size: 16px;
     font-weight: normal;
@@ -589,7 +604,8 @@ section img{
 }
 
 .laptop h1{
-    padding-top: 50px;
+    padding-top: 80px;
+    /*padding-bottom: 30px;*/
     font-family: Montserrat;
     font-size: 24.5px;
     font-weight: bold;
@@ -683,6 +699,7 @@ section img{
 }
 
 .feature_2 h2{
+    padding-left: 35px;
     padding-top: 30px;
     font-family: Montserrat;
     font-size: 30px;
@@ -964,6 +981,7 @@ footer a:hover{
 }
 
 .books-list p{
+    padding-top: 20px;
     font-weight: bold;
 }
 
@@ -1012,6 +1030,8 @@ footer a:hover{
 }
 
 .why-parent p{
+    padding-left: 0px !important;
+    /*padding-right: 50px;*/
     padding-top: 20px;
     padding-bottom: 20px;
     font-size: 16px;
@@ -1038,7 +1058,6 @@ footer a:hover{
 
 .why-child{
     background-color: white;
-
     margin-top: 15px;
     border-radius: 10px;
     box-shadow: 0px 20px 30px 0 rgba(40, 40, 40, 0.18);
