@@ -1,4 +1,9 @@
 
+
+body *{
+    font-family: Montserrat;
+}
+
 .row{
     margin-left: 0px !important;
     margin-right: 0px !important;
@@ -89,6 +94,9 @@ section img{
     border-radius: 23.5px;
     background-color: #fe0000;
 
+}
+.dizButton:hover{
+    background-color: #ff4121;
 }
 
 .dizButton
@@ -395,6 +403,10 @@ and (max-device-width : 1024px)  {
         padding-left: 0px !important;
         padding-right: 0px !important;
     }
+
+    .video video {
+        width: 80% !important;
+    }
 }
 
 /* Handling for Ipad*/
@@ -549,7 +561,7 @@ and (max-device-width : 1024px)  {
 }
 
 .video video{
-    width: 80%;
+    width: 60%;
 }
 
 .video-back {
