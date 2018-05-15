@@ -292,10 +292,6 @@ and (max-device-width : 1024px)  {
         text-align: center;
     }
 
-    .nav-mobile-color{
-        color: rgba(0,0,0,.75)  ;
-    }
-
     .team-img{
         width: 100%;
     }
@@ -398,6 +394,15 @@ and (max-device-width : 1024px)  {
     .box-wraper {
         padding-left: 0px !important;
         padding-right: 0px !important;
+    }
+}
+
+/* Handling for Ipad*/
+
+@media only screen and (max-width: 767px)
+{
+    .nav-mobile-color {
+        color: rgba(0,0,0,.75) !important;
     }
 }
 
