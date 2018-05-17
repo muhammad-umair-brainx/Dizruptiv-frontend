@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8445c699-9a06-4a9d-af4d-02ee9bf9852d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/img/header-section/header-banner.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/dizruptiv.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/dizruptiv.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="55" column="40" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
+            <state relative-caret-position="-121">
+              <caret line="299" column="25" selection-start-line="299" selection-start-column="22" selection-end-line="299" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -46,8 +44,8 @@
       <file leaf-file-name="dizruptiv.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/dizruptiv.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="545">
-              <caret line="218" column="29" selection-start-line="218" selection-start-column="29" selection-end-line="218" selection-end-column="29" />
+            <state relative-caret-position="319">
+              <caret line="269" column="38" selection-start-line="269" selection-start-column="38" selection-end-line="269" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -64,8 +62,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.des</find>
-      <find>laptop</find>
       <find>.ipad</find>
       <find>only for de</find>
       <find>laptopo</find>
@@ -94,6 +90,8 @@
       <find>feature_2 s</find>
       <find>a di</find>
       <find>1920</find>
+      <find>why</find>
+      <find>.why-child p</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -106,8 +104,8 @@
         <option value="$PROJECT_DIR$/css/header.css" />
         <option value="$USER_HOME$/Desktop/testt.html" />
         <option value="$PROJECT_DIR$/css/slickStyle.css" />
-        <option value="$PROJECT_DIR$/css/dizruptiv.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/dizruptiv.css" />
       </list>
     </option>
   </component>
@@ -124,8 +122,8 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1" />
-    <option name="width" value="1918" />
-    <option name="height" value="1018" />
+    <option name="width" value="2398" />
+    <option name="height" value="1273" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -205,7 +203,7 @@
       <workItem from="1526277890719" duration="6866000" />
       <workItem from="1526364971192" duration="10203000" />
       <workItem from="1526453615723" duration="19890000" />
-      <workItem from="1526533594573" duration="20009000" />
+      <workItem from="1526533594573" duration="21761000" />
     </task>
     <task id="LOCAL-00001" summary="-video updated&#10;-box padding removed&#10;-links added">
       <created>1526041746728</created>
@@ -291,17 +289,24 @@
       <option name="project" value="LOCAL" />
       <updated>1526556864528</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="header background on mobile updated">
+      <created>1526557838801</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1526557838801</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154542000" />
+    <option name="totallyTimeSpent" value="156294000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1609808" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20268457" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32905984" />
@@ -350,7 +355,8 @@
     <MESSAGE value="slider arrow added:" />
     <MESSAGE value="issue has been taken care of on 1920 screen&#10;::whole width applied&#10;::header banner updated" />
     <MESSAGE value="::feature-2 second portion padding right&#10;::footer section arrow and buttion issue resolved&#10;::overall width changes to 80%" />
-    <option name="LAST_COMMIT_MESSAGE" value="::feature-2 second portion padding right&#10;::footer section arrow and buttion issue resolved&#10;::overall width changes to 80%" />
+    <MESSAGE value="header background on mobile updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="header background on mobile updated" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -659,15 +665,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/dizruptiv.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="218" column="29" selection-start-line="218" selection-start-column="29" selection-end-line="218" selection-end-column="29" />
+        <state relative-caret-position="319">
+          <caret line="269" column="38" selection-start-line="269" selection-start-column="38" selection-end-line="269" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="55" column="40" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
+        <state relative-caret-position="-121">
+          <caret line="299" column="25" selection-start-line="299" selection-start-column="22" selection-end-line="299" selection-end-column="25" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
