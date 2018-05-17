@@ -4,13 +4,9 @@ body *{
     font-family: Montserrat;
 }
 
-.diz-width{
-    width: 88%;
-    margin: auto !important;
-}
 
 .diz-width-guarantee{
-    width: 75%;
+    width: 85%;
     margin: auto !important;
 }
 
@@ -151,12 +147,16 @@ section img{
 /*Only for IPAD*/
 
 @media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px)  {
+and (min-width : 768px)
+and (max-width : 1024px)  {
 
     .why-child img{
         width: 60px !important;
         /*padding: 0px !important;*/
+    }
+
+    .diz-width{
+        width: 100% !important;
     }
 
     .guarantee-list img{
@@ -196,7 +196,31 @@ and (max-device-width : 1024px)  {
 }
 
 
+/*media quiries for 1920 resulotion */
+@media only screen and (min-width: 1900px) {
 
+    .feature-2-ipad ,.feature-2-laptop{
+        width: 60% !important;
+    }
+
+    .feature-2-mobile{
+        width: 60% !important;
+    }
+
+}
+
+/*media quiries for 1700 resulotion */
+@media only screen and (min-width: 1650px) and (max-width: 1890px){
+
+    .feature-2-ipad ,.feature-2-laptop{
+        width: 70% !important;
+    }
+
+    .feature-2-mobile{
+        width: 70% !important;
+    }
+
+}
 
 
 /*Only for Mobile*/
@@ -255,6 +279,10 @@ and (max-device-width : 1024px)  {
     .footer-pipe{
         border-left: 1px solid #515151 !important;
 
+    }
+
+    .grad1-3 {
+        margin-top: 20px!important;
     }
 
     footer{
@@ -439,9 +467,20 @@ and (max-device-width : 1024px)  {
 @media only screen and (max-width: 1300px)
 {
     .grad1-right{
-        margin-top: -2% !important;
+        margin-top: 2% !important;
     }
 }
+
+
+@media only screen
+and (min-width : 1301px)
+and (max-width : 1400px) {
+
+    .grad1-right{
+        margin-top: -4% !important;
+    }
+}
+
 
 @media only screen and (max-width: 1240px)
 {
@@ -462,14 +501,14 @@ and (max-device-width : 1024px)  {
     }
 
 
-    .diz-width-dekstop{
-        width: 98%;
-        margin: auto !important;
-    }
-
     .team-width{
         width: 60%;
         margin: auto;
+    }
+
+    .diz-width{
+        width: 88%;
+        margin: auto !important;
     }
 
     .guarantee-des{
@@ -823,6 +862,15 @@ and (max-device-width : 1024px)  {
 }
 
 /*Feature_2 style*/
+
+.feature-2-ipad ,.feature-2-laptop{
+    width: 90%;
+}
+
+.feature-2-mobile{
+    width: 80%;
+}
+
 
 
 .feature_2 h1{
