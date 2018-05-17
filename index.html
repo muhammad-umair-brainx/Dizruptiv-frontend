@@ -17,7 +17,6 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
 
     <link rel="stylesheet" type="text/css" href="img/slick/slick.css"/>
-    // Add the new slick-theme.css if you want the default styling
     <link rel="stylesheet" type="text/css" href="img/slick/slick-theme.css"/>
 
 
@@ -155,7 +154,7 @@
 
 
 
-        <div class="slick-slider container ">
+        <div class="slick-slider team-width ">
           <div >
               <div  class="text-center col-12">
                   <img class="" width="100%" src="img/team/Ben.png" alt="First slide">
@@ -793,19 +792,21 @@
   <script type="text/javascript" src="img/slick/slick.min.js"></script>
 
   <script>
-      // var video = document.getElementById('video');
-      // video.addEventListener('click',function(){
-      //     video.play();
-      // },false);
 
 
       $(document).ready(function(){
           $('.slick-slider').slick({
 
-              arrows: false,
+              arrows: true,
               dots:true,
               slidesToShow: 3,
               slidesToScroll: 1,
+              // infinite: false,
+              // variableWidth: false,
+
+
+              prevArrow:"<img class='a-left control-c prev slick-prev' src='img/arrow/back.svg'>",
+              nextArrow:"<img class='a-right control-c next slick-next' src='img/arrow/forward.svg'>",
 
               responsive: [
                   {
@@ -815,6 +816,7 @@
                   {
                       breakpoint: 600,
                       settings: {
+                          arrows:false,
                           slidesToShow: 2,
                           slidesToScroll: 1
                       }
@@ -822,6 +824,7 @@
                   {
                       breakpoint: 480,
                       settings: {
+                          arrows:false,
                           slidesToShow: 2,
                           slidesToScroll: 1
                       }
@@ -830,6 +833,7 @@
               ]
 
           });
+
       });
   </script>
 </body>

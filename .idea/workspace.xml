@@ -1,57 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8445c699-9a06-4a9d-af4d-02ee9bf9852d" name="Default" comment="::over all width set &#10;::slick slider added&#10;::bad code removed &#10;::feature-2 section text adjusted">
-      <change afterPath="$PROJECT_DIR$/img/back.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/books/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/laptop/mobile-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/next.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slick/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slick/config.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slick/fonts/slick.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slick/fonts/slick.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slick/fonts/slick.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slick/fonts/slick.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slick/slick-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slick/slick-theme.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slick/slick-theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slick/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slick/slick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slick/slick.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slick/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slick/slick.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/why/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/CONTRIBUTING.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/ISSUE_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/README.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/slick.jquery.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/slick/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/slick/config.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/slick/fonts/slick.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/slick/fonts/slick.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/slick/fonts/slick.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/slick/fonts/slick.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/slick/slick-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/slick/slick-theme.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/slick/slick-theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/slick/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/slick/slick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/slick/slick.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/slick/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/slick-carousel/slick/slick.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    <list default="true" id="8445c699-9a06-4a9d-af4d-02ee9bf9852d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/img/arrow/back.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/arrow/forward.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/dizruptiv.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/dizruptiv.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/header-section/banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/header-section/banner.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/laptop/banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/laptop/banner.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/video/banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/video/banner.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="391" column="50" selection-start-line="391" selection-start-column="50" selection-end-line="391" selection-end-column="50" />
+            <state relative-caret-position="385">
+              <caret line="191" column="16" selection-start-line="191" selection-start-column="16" selection-end-line="191" selection-end-column="16" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -94,8 +48,8 @@
       <file leaf-file-name="dizruptiv.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/dizruptiv.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="441" column="22" selection-start-line="441" selection-start-column="22" selection-end-line="441" selection-end-column="22" />
+            <state relative-caret-position="462">
+              <caret line="471" column="20" selection-start-line="471" selection-start-column="20" selection-end-line="471" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -153,8 +107,8 @@
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/css/header.css" />
         <option value="$USER_HOME$/Desktop/testt.html" />
-        <option value="$PROJECT_DIR$/css/dizruptiv.css" />
         <option value="$PROJECT_DIR$/css/slickStyle.css" />
+        <option value="$PROJECT_DIR$/css/dizruptiv.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -188,6 +142,17 @@
               <item name="Dizruptiv-frontend" type="b2602c69:ProjectViewProjectNode" />
               <item name="Dizruptiv-frontend" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Dizruptiv-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dizruptiv-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dizruptiv-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dizruptiv-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="arrow" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -205,11 +170,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dizruptiv\Dizruptiv-frontend\img\arrow" />
       <recent name="D:\dizruptiv\Dizruptiv-frontend\img" />
       <recent name="D:\dizruptiv\Dizruptiv-frontend\img\laptop" />
       <recent name="D:\dizruptiv\Dizruptiv-frontend\img\books" />
       <recent name="D:\dizruptiv\Dizruptiv-frontend\img\why" />
-      <recent name="D:\dizruptiv\Dizruptiv-frontend\img\video" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -242,7 +207,7 @@
       <workItem from="1526277890719" duration="6866000" />
       <workItem from="1526364971192" duration="10203000" />
       <workItem from="1526453615723" duration="19890000" />
-      <workItem from="1526533594573" duration="6931000" />
+      <workItem from="1526533594573" duration="10869000" />
     </task>
     <task id="LOCAL-00001" summary="-video updated&#10;-box padding removed&#10;-links added">
       <created>1526041746728</created>
@@ -293,11 +258,25 @@
       <option name="project" value="LOCAL" />
       <updated>1526398315906</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="::over all width set &#10;::slick slider added&#10;::bad code removed &#10;::feature-2 section text adjusted">
+      <created>1526540765435</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1526540765435</updated>
+    </task>
+    <task id="LOCAL-00009" summary="::over all width set &#10;::slick slider added&#10;::bad code removed &#10;::feature-2 section text adjusted">
+      <created>1526540822169</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1526540822169</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141464000" />
+    <option name="totallyTimeSpent" value="145402000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -348,7 +327,8 @@
     <MESSAGE value="desugn ready for Ipad&#10; :: why section center align&#10; :: why center picter issue resilve&#10; :: about arrow issue resolve&#10; :: footer link issue resolve &#10; :: feature-2 issue resolve&#10; :: video updated" />
     <MESSAGE value="nav link text color issue resolved" />
     <MESSAGE value="video size adjusted&#10;::font applied on body&#10;::buuton hover color&#10;:: header logo removed" />
-    <option name="LAST_COMMIT_MESSAGE" value="video size adjusted&#10;::font applied on body&#10;::buuton hover color&#10;:: header logo removed" />
+    <MESSAGE value="::over all width set &#10;::slick slider added&#10;::bad code removed &#10;::feature-2 section text adjusted" />
+    <option name="LAST_COMMIT_MESSAGE" value="::over all width set &#10;::slick slider added&#10;::bad code removed &#10;::feature-2 section text adjusted" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -651,15 +631,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/dizruptiv.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="441" column="22" selection-start-line="441" selection-start-column="22" selection-end-line="441" selection-end-column="22" />
+        <state relative-caret-position="462">
+          <caret line="471" column="20" selection-start-line="471" selection-start-column="20" selection-end-line="471" selection-end-column="20" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/arrow/back.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/arrow/forward.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="391" column="50" selection-start-line="391" selection-start-column="50" selection-end-line="391" selection-end-column="50" />
+        <state relative-caret-position="385">
+          <caret line="191" column="16" selection-start-line="191" selection-start-column="16" selection-end-line="191" selection-end-column="16" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />

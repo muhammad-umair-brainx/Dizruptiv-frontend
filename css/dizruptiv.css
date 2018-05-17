@@ -467,6 +467,11 @@ and (max-device-width : 1024px)  {
         margin: auto !important;
     }
 
+    .team-width{
+        width: 60%;
+        margin: auto;
+    }
+
     .guarantee-des{
         /*margin-left: 50px !important;*/
 
