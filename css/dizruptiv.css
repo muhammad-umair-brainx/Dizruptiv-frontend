@@ -4,6 +4,16 @@ body *{
     font-family: Montserrat;
 }
 
+.diz-width{
+    width: 88%;
+    margin: auto !important;
+}
+
+.diz-width-guarantee{
+    width: 75%;
+    margin: auto !important;
+}
+
 .row{
     margin-left: 0px !important;
     margin-right: 0px !important;
@@ -343,8 +353,12 @@ and (max-device-width : 1024px)  {
 
     .laptop-content{
         display: block!important;
+
     }
 
+    .laptop{
+        /*padding-bottom: 80px !important;*/
+    }
     .why-child img{
 
     }
@@ -416,7 +430,28 @@ and (max-device-width : 1024px)  {
     .nav-mobile-color {
         color: rgba(0,0,0,.75) !important;
     }
+
+
 }
+
+/*media quries to handle feature 2 section*/
+
+@media only screen and (max-width: 1300px)
+{
+    .grad1-right{
+        margin-top: -2% !important;
+    }
+}
+
+@media only screen and (max-width: 1240px)
+{
+    .grad1-left{
+        position: relative;
+        top: -20px !important;
+    }
+}
+
+
 
 /*Only for Desktop*/
 @media only screen and (min-width: 768px) {
@@ -426,6 +461,16 @@ and (max-device-width : 1024px)  {
         height: 100px;
     }
 
+
+    .diz-width-dekstop{
+        width: 98%;
+        margin: auto !important;
+    }
+
+    .guarantee-des{
+        /*margin-left: 50px !important;*/
+
+    }
     .navbar-brand
     {
         transform: translateX(-50%);
@@ -453,6 +498,10 @@ and (max-device-width : 1024px)  {
         margin-left: 10px !important;
     }
 
+    .grad1-3{
+        position: relative;
+        top: -40px;
+    }
     .nav-item, .nav-link
     {
         height: 25px;
@@ -465,18 +514,18 @@ and (max-device-width : 1024px)  {
     }
 
     .grad1-right{
-        margin-top: -70px ;
+        margin-top: -20%;
     }
 
     .why{
-        margin-top: -70px !important;
+        margin-top: -9%!important;
     }
 }
 
 /*FEATURE SECTION STYLE*/
 
 .feature h2{
-    margin-top: 10%;
+    margin-top: 4%;
     font-family: Montserrat;
     font-size: 24px;
     font-weight: bold;
@@ -507,14 +556,18 @@ and (max-device-width : 1024px)  {
 }
 .ipad-img{
     position: relative;
-    top: -120px;
+    top: -100px;
+}
+.feature-laptop{
+    position: relative;
+    top: -30px;
 }
 
 .feature p{
     opacity: 0.8;
     font-size: 16px;
     line-height: 1.56;
-
+    padding-bottom: 50px;
     font-family: Montserrat;
     font-weight: 500;
     font-style: normal;
@@ -752,6 +805,17 @@ and (max-device-width : 1024px)  {
     object-fit:cover;
     object-position: bottom;
 }
+.laptop-back-mobile{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    margin: 0px;
+    z-index: 0;
+    /*object-fit:cover;*/
+    object-position: bottom;
+}
 
 /*Feature_2 style*/
 
@@ -935,6 +999,7 @@ footer a:hover{
     padding-bottom: 40px;
     background-color: white;
     border-radius: 12px;
+    /*margin-right: 40px !important;*/
 }
 
 .guarantee-list{
@@ -952,6 +1017,7 @@ footer a:hover{
     letter-spacing: 0.6px;
     text-align: left;
     color: #000000;
+
 }
 
 
