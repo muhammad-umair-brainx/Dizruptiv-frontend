@@ -144,6 +144,14 @@ section img{
     padding-right: 30px;
 }
 
+
+@media only screen
+and (max-width : 768px){
+    .about-arrow{
+        width: 20% !important;
+    }
+}
+
 /*Only for IPAD*/
 
 @media only screen
@@ -205,6 +213,10 @@ and (max-width : 1024px)  {
 
     .feature-2-mobile{
         width: 60% !important;
+    }
+
+    .ipad-img{
+        padding-bottom: 20px ;
     }
 
 }
@@ -343,7 +355,7 @@ and (max-width : 1024px)  {
     }
 
     .about-btn{
-        width: 100px !important;
+        width: 100% !important;
         height: 40px ;
         /*box-shadow: 5px 5px 5px 5px #FFC0C0!important;*/
     }
@@ -507,7 +519,7 @@ and (max-width : 1400px) {
     }
 
     .diz-width{
-        width: 88%;
+        width: 80%;
         margin: auto !important;
     }
 
@@ -871,6 +883,10 @@ and (max-width : 1400px) {
     width: 80%;
 }
 
+.grad1-2-des{
+    padding-right: 7% !important;
+}
+
 
 
 .feature_2 h1{
@@ -1018,7 +1034,7 @@ footer a:hover{
 }
 
 .about-btn {
-    width: 392px;
+    width: 90%;
     height: 71px;
     box-shadow: 0px 25px 30px 0 rgba(254, 0, 0, 0.28);
 }
