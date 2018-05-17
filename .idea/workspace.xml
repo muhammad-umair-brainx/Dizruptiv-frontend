@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8445c699-9a06-4a9d-af4d-02ee9bf9852d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/img/header-section/header-banner.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/dizruptiv.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/dizruptiv.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="262" column="63" selection-start-line="262" selection-start-column="63" selection-end-line="262" selection-end-column="63" />
+            <state relative-caret-position="220">
+              <caret line="55" column="40" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -43,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dizruptiv.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dizruptiv.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/dizruptiv.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="882" column="20" selection-start-line="882" selection-start-column="20" selection-end-line="882" selection-end-column="20" />
+            <state relative-caret-position="545">
+              <caret line="218" column="29" selection-start-line="218" selection-start-column="29" selection-end-line="218" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -64,7 +64,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.mobile</find>
       <find>.des</find>
       <find>laptop</find>
       <find>.ipad</find>
@@ -94,6 +93,7 @@
       <find>diz</find>
       <find>feature_2 s</find>
       <find>a di</find>
+      <find>1920</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -106,8 +106,8 @@
         <option value="$PROJECT_DIR$/css/header.css" />
         <option value="$USER_HOME$/Desktop/testt.html" />
         <option value="$PROJECT_DIR$/css/slickStyle.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/dizruptiv.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -139,6 +139,17 @@
             <path>
               <item name="Dizruptiv-frontend" type="b2602c69:ProjectViewProjectNode" />
               <item name="Dizruptiv-frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dizruptiv-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dizruptiv-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dizruptiv-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dizruptiv-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="header-section" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,7 +205,7 @@
       <workItem from="1526277890719" duration="6866000" />
       <workItem from="1526364971192" duration="10203000" />
       <workItem from="1526453615723" duration="19890000" />
-      <workItem from="1526533594573" duration="19103000" />
+      <workItem from="1526533594573" duration="20009000" />
     </task>
     <task id="LOCAL-00001" summary="-video updated&#10;-box padding removed&#10;-links added">
       <created>1526041746728</created>
@@ -273,11 +284,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526554323111</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="::feature-2 second portion padding right&#10;::footer section arrow and buttion issue resolved&#10;::overall width changes to 80%">
+      <created>1526556864528</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1526556864528</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153636000" />
+    <option name="totallyTimeSpent" value="154542000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -331,7 +349,8 @@
     <MESSAGE value="::over all width set &#10;::slick slider added&#10;::bad code removed &#10;::feature-2 section text adjusted" />
     <MESSAGE value="slider arrow added:" />
     <MESSAGE value="issue has been taken care of on 1920 screen&#10;::whole width applied&#10;::header banner updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="issue has been taken care of on 1920 screen&#10;::whole width applied&#10;::header banner updated" />
+    <MESSAGE value="::feature-2 second portion padding right&#10;::footer section arrow and buttion issue resolved&#10;::overall width changes to 80%" />
+    <option name="LAST_COMMIT_MESSAGE" value="::feature-2 second portion padding right&#10;::footer section arrow and buttion issue resolved&#10;::overall width changes to 80%" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -638,10 +657,17 @@
     <entry file="file://$PROJECT_DIR$/img/arrow/forward.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/dizruptiv.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="218" column="29" selection-start-line="218" selection-start-column="29" selection-end-line="218" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="262" column="63" selection-start-line="262" selection-start-column="63" selection-end-line="262" selection-end-column="63" />
+        <state relative-caret-position="220">
+          <caret line="55" column="40" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -661,13 +687,6 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#4;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#section#6;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/dizruptiv.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="882" column="20" selection-start-line="882" selection-start-column="20" selection-end-line="882" selection-end-column="20" />
         </state>
       </provider>
     </entry>
