@@ -126,7 +126,7 @@
           <h2 class="text-center heading-width">INTERESTERD IN GETTING STARTED NOW? WATCH THIS:</h2>
           <div align="center"><hr width="50px" style="height: 5px ; " color="red"></div>
 
-          <video id="video" poster="img/video/video.png" controls>
+          <video id="video-2" poster="img/video/video.png" controls>
             <source src="img/vid.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
@@ -666,8 +666,8 @@
   </script>
   <script src="https://www.google-analytics.com/analytics.js" async defer></script>
 
-  <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-  <script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
   <script type="text/javascript" src="img/slick/slick.min.js"></script>
 
   <script>
@@ -678,6 +678,11 @@
           var video = document.getElementById('video');
           video.addEventListener('click',function(){
               video.play();
+          },false);
+
+          var video2 = document.getElementById('video-2');
+          video2.addEventListener('click',function(){
+              video2.play();
           },false);
 
           $('.slick-slider').slick({
