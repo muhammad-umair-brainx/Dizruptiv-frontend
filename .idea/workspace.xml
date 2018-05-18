@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8445c699-9a06-4a9d-af4d-02ee9bf9852d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/css/dizruptiv.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/dizruptiv.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-121">
@@ -41,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dizruptiv.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dizruptiv.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/dizruptiv.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="269" column="38" selection-start-line="269" selection-start-column="38" selection-end-line="269" selection-end-column="38" />
+            <state relative-caret-position="407">
+              <caret line="540" column="37" selection-start-line="540" selection-start-column="37" selection-end-line="540" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -62,7 +62,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.ipad</find>
       <find>only for de</find>
       <find>laptopo</find>
       <find>.laptop-back</find>
@@ -92,6 +91,7 @@
       <find>1920</find>
       <find>why</find>
       <find>.why-child p</find>
+      <find>.why</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -121,9 +121,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1" />
-    <option name="width" value="2398" />
-    <option name="height" value="1273" />
+    <option name="width" value="2399" />
+    <option name="height" value="1274" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -137,17 +136,6 @@
             <path>
               <item name="Dizruptiv-frontend" type="b2602c69:ProjectViewProjectNode" />
               <item name="Dizruptiv-frontend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dizruptiv-frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dizruptiv-frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dizruptiv-frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dizruptiv-frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="header-section" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,7 +191,7 @@
       <workItem from="1526277890719" duration="6866000" />
       <workItem from="1526364971192" duration="10203000" />
       <workItem from="1526453615723" duration="19890000" />
-      <workItem from="1526533594573" duration="21761000" />
+      <workItem from="1526533594573" duration="22496000" />
     </task>
     <task id="LOCAL-00001" summary="-video updated&#10;-box padding removed&#10;-links added">
       <created>1526041746728</created>
@@ -296,15 +284,21 @@
       <option name="project" value="LOCAL" />
       <updated>1526557838801</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="why section padding adjusted">
+      <created>1526560819784</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1526560819784</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156294000" />
+    <option name="totallyTimeSpent" value="157029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20268457" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -356,7 +350,8 @@
     <MESSAGE value="issue has been taken care of on 1920 screen&#10;::whole width applied&#10;::header banner updated" />
     <MESSAGE value="::feature-2 second portion padding right&#10;::footer section arrow and buttion issue resolved&#10;::overall width changes to 80%" />
     <MESSAGE value="header background on mobile updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="header background on mobile updated" />
+    <MESSAGE value="why section padding adjusted" />
+    <option name="LAST_COMMIT_MESSAGE" value="why section padding adjusted" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -663,13 +658,6 @@
     <entry file="file://$PROJECT_DIR$/img/arrow/forward.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/dizruptiv.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="269" column="38" selection-start-line="269" selection-start-column="38" selection-end-line="269" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-121">
@@ -693,6 +681,13 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#4;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#section#6;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/dizruptiv.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="540" column="37" selection-start-line="540" selection-start-column="37" selection-end-line="540" selection-end-column="37" />
         </state>
       </provider>
     </entry>
