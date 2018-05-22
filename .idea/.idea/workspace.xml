@@ -2,155 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8445c699-9a06-4a9d-af4d-02ee9bf9852d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/frontend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/css/dizruptiv.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/doc/TOC.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/doc/css.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/doc/extend.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/doc/faq.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/doc/html.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/doc/js.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/doc/misc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/doc/usage.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/humans.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/about/GUARANTEE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/about/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/about/left-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/about/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/about/right-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/arrow/back.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/arrow/forward.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/back.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/books/ALT Coin Cookbook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/books/Coders Guide To  Blockchain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/books/Dizruptiv 2018  Investment Guide.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/books/Dizruptiv Forum Mining  &amp; Nodes Mastery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/books/Dizruptiv ICO Guide.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/books/Dizrutpiv Newbie  Guide.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/books/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/books/book-banner@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/feature-3/Dizruptiv-Training.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/feature-3/Exclusive-ICO.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/feature-3/Local-Networking-Events.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/feature-3/MORE-TOOLS-ON-THE-WAY.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/feature-3/Private-Hackathon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/feature-3/Private-Mobile-Telegram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/feature-3/Unchained-Podcast.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/feature-3/Upcoming-Webinars.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/feature-3/rocket-hitting-target.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/feature/and-much-more.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/feature/blockchain-development.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/feature/chart-projections.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/feature/coin-health.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/feature/crypto-education.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/feature/market-research.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/feature/private-ICOs.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/feature/trading-signals.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/feature_2/Laptop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/feature_2/iPad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/feature_2/mobile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/header-section/1st video cover.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/header-section/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/header-section/header-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/laptop/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/laptop/laptop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/laptop/mobile-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/next.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/price-box/price-table.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/slick/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/slick/config.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/slick/fonts/slick.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/slick/fonts/slick.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/slick/fonts/slick.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/slick/fonts/slick.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/slick/slick-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/slick/slick-theme.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/slick/slick-theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/slick/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/slick/slick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/slick/slick.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/slick/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/slick/slick.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/team/Ben.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/team/David.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/team/Jivan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/team/Sameer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/team/Waseem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/video/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/video/video-cover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/why/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/why/banner@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/why/case-study.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/why/guide-help.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/why/join.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/why/managing.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/why/money.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img/why/what-inside.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/js/vendor/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/js/vendor/modernizr-3.6.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/CONTRIBUTING.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/ISSUE_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/README.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/slick.jquery.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/slick/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/slick/config.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/slick/fonts/slick.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/slick/fonts/slick.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/slick/fonts/slick.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/slick/fonts/slick.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/slick/slick-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/slick/slick-theme.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/slick/slick-theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/slick/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/slick/slick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/slick/slick.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/slick/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_modules/slick-carousel/slick/slick.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/site.webmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/termsOfUse.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/tile-wide.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/tile.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/dizruptiv.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/dizruptiv.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Dizruptiv V02.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/vid.mp4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -179,8 +34,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="726" column="22" lean-forward="true" selection-start-line="724" selection-start-column="16" selection-end-line="726" selection-end-column="22" />
+            <state relative-caret-position="275">
+              <caret line="730" column="59" lean-forward="true" selection-start-line="730" selection-start-column="59" selection-end-line="730" selection-end-column="59" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -218,8 +73,8 @@
       <file leaf-file-name="dizruptiv.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/dizruptiv.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="1430" column="14" lean-forward="true" selection-start-line="1430" selection-start-column="14" selection-end-line="1430" selection-end-column="14" />
+            <state relative-caret-position="495">
+              <caret line="1415" selection-start-line="1415" selection-end-line="1415" />
             </state>
           </provider>
         </entry>
@@ -236,6 +91,9 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>diz-width-guarantee</find>
+      <find>feature_2 sec</find>
+      <find>.about-b</find>
       <find>feature</find>
       <find>.about-arr</find>
       <find>diz</find>
@@ -253,6 +111,7 @@
       <find>.about-whi</find>
       <find>vide</find>
       <find>only for m</find>
+      <find>video</find>
       <find>intro</find>
       <find>only for mo</find>
       <find>about-wh</find>
@@ -262,10 +121,6 @@
       <find>price</find>
       <find>only for i</find>
       <find>managi</find>
-      <find>team</find>
-      <find>only fir</find>
-      <find>only</find>
-      <find>video</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -306,7 +161,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -314,16 +168,28 @@
               <item name="Dizruptiv-frontend" type="b2602c69:ProjectViewProjectNode" />
               <item name="Dizruptiv-frontend" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Dizruptiv-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dizruptiv-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dizruptiv-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dizruptiv-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dizruptiv-frontend - Copy" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -372,7 +238,6 @@
       <workItem from="1526636183377" duration="3884000" />
       <workItem from="1526884102638" duration="12359000" />
       <workItem from="1526900258899" duration="1935000" />
-      <workItem from="1526973833402" duration="5058000" />
     </task>
     <task id="LOCAL-00001" summary="-video updated&#10;-box padding removed&#10;-links added">
       <created>1526041746728</created>
@@ -518,16 +383,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189874000" />
+    <option name="totallyTimeSpent" value="184816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21610738" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21342282" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32905984" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3295302" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32905984" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -536,12 +402,24 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21342282" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32905984" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -583,13 +461,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="::video banners updated&#10;::pricing column added &#10;::video 2 updated" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/dizruptiv.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31130">
-          <caret line="1415" selection-start-line="1415" selection-end-line="1415" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6490">
@@ -1454,10 +1325,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/about/GUARANTEE.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="726" column="22" lean-forward="true" selection-start-line="724" selection-start-column="16" selection-end-line="726" selection-end-column="22" />
+        <state relative-caret-position="275">
+          <caret line="730" column="59" lean-forward="true" selection-start-line="730" selection-start-column="59" selection-end-line="730" selection-end-column="59" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1493,8 +1367,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/dizruptiv.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="1430" column="14" lean-forward="true" selection-start-line="1430" selection-start-column="14" selection-end-line="1430" selection-end-column="14" />
+        <state relative-caret-position="495">
+          <caret line="1415" selection-start-line="1415" selection-end-line="1415" />
         </state>
       </provider>
     </entry>
