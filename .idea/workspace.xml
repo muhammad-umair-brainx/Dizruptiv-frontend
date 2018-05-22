@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8445c699-9a06-4a9d-af4d-02ee9bf9852d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/ALT Coin Cookbook.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/books/ALT Coin Cookbook.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/Coders Guide To  Blockchain.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/books/Coders Guide To  Blockchain.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/Dizruptiv 2018  Investment Guide.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/books/Dizruptiv 2018  Investment Guide.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/Dizruptiv Forum Mining  &amp; Nodes Mastery.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/books/Dizruptiv Forum Mining  &amp; Nodes Mastery.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/Dizruptiv ICO Guide.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/books/Dizruptiv ICO Guide.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/Dizrutpiv Newbie  Guide.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/books/Dizrutpiv Newbie  Guide.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/books/banner.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/book-banner@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/books/book-banner@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/feature_2/iPad.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/feature_2/iPad.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/feature_2/laptop.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/feature_2/laptop.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/feature_2/mobile.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/feature_2/mobile.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/header-section/1st video cover.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/header-section/banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/header-section/banner.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/header-section/header-banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/header-section/header-banner.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/laptop/banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/laptop/banner.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/laptop/laptop.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/laptop/laptop.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/laptop/mobile-banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/laptop/mobile-banner.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/video/banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/video/banner.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/video/video-cover.png" beforeDir="false" />
-    </list>
+    <list default="true" id="8445c699-9a06-4a9d-af4d-02ee9bf9852d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -169,7 +148,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="3000" />
-    <option name="height" value="1594" />
+    <option name="height" value="1595" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -245,7 +224,7 @@
       <workItem from="1526900258899" duration="1935000" />
       <workItem from="1526973833402" duration="5372000" />
       <workItem from="1526979922868" duration="25000" />
-      <workItem from="1526984332491" duration="1928000" />
+      <workItem from="1526984332491" duration="2180000" />
     </task>
     <task id="LOCAL-00001" summary="-video updated&#10;-box padding removed&#10;-links added">
       <created>1526041746728</created>
@@ -422,11 +401,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526985522467</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="pics compresed">
+      <created>1526986532254</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1526986532254</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="192141000" />
+    <option name="totallyTimeSpent" value="192393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -493,7 +479,8 @@
     <MESSAGE value="price boxes back adjusted" />
     <MESSAGE value="price boxes back adjustedv2" />
     <MESSAGE value="price boxes back adjustedv3" />
-    <option name="LAST_COMMIT_MESSAGE" value="price boxes back adjustedv3" />
+    <MESSAGE value="pics compresed" />
+    <option name="LAST_COMMIT_MESSAGE" value="pics compresed" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/dizruptiv.css">
