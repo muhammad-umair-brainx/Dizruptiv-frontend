@@ -573,7 +573,7 @@ and (max-width : 1400px) {
     .price-boxes{
         position: relative;
         padding-top: 30px;
-        margin-left: -8% !important;
+        margin-left: -4% !important;
 
     }
     .price-box-ofset{
