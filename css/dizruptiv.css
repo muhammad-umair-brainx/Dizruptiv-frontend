@@ -1104,7 +1104,7 @@ footer a{
 
 .about-white{
     background-color: white;
-    padding-bottom: 50px;
+    margin-bottom: 50px !important;
     /*height: 350px;*/
 }
 .logo-div{
@@ -1419,7 +1419,7 @@ padding-bottom: 70px;
     margin-right: 10px;
     margin-left: 10px;
     border-radius: 30px;
-    box-shadow: 0px 20px 30px 0 rgba(40, 40, 40, 0.18);
+    box-shadow: 0px 0px 40px 0 rgba(40, 40, 40, 0.18);
 }
 
 .price-box-back{
@@ -1453,14 +1453,23 @@ padding-bottom: 70px;
     font-weight: normal;
     width: 80%;
     padding-top: 40px;
-    padding-bottom: 50%;
+    /*padding-bottom: 50%;*/
 }
 
 .price-box-btn{
-    margin-top: 50%;
-    margin-bottom: 10px;
+
+    /*margin-top: 60%;*/
+    position: relative;
+    margin-bottom: -5% !important;
+    margin-top: 40%;
+    width: 60% !important;
+    height: 47px;
+    border-radius: 23.5px;
+    background-color: #fe0000;
     box-shadow: 0px 25px 30px 0 rgba(254, 0, 0, 0.28);
-    display: none;
+
+    /*display: none;*/
 }
+
 
 
