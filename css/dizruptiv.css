@@ -1459,6 +1459,7 @@ padding-bottom: 70px;
 .price-box-btn{
 
     /*margin-top: 60%;*/
+    bottom: -10px;
     position: relative;
     margin-bottom: -5% !important;
     margin-top: 40%;
