@@ -179,9 +179,14 @@ and (max-width : 768px){
 and (min-width : 768px)
 and (max-width : 1024px)  {
 
+
     .why-child img{
         width: 60px !important;
         /*padding: 0px !important;*/
+    }
+
+    .price-box h2{
+        padding-top: 80% !important;
     }
 
     .diz-width{
@@ -1421,6 +1426,9 @@ padding-bottom: 70px;
     border-radius: 30px;
     box-shadow: 0px 0px 40px 0 rgba(40, 40, 40, 0.18);
 }
+.price-box h2{
+    padding-top: 70%;
+}
 
 .price-box-back{
     width: 100%;
@@ -1452,7 +1460,7 @@ padding-bottom: 70px;
     font-family: Montserrat;
     font-weight: normal;
     width: 80%;
-    padding-top: 40px;
+    /*padding-top: 40%;*/
     /*padding-bottom: 50%;*/
 }
 
@@ -1470,6 +1478,17 @@ padding-bottom: 70px;
     box-shadow: 0px 25px 30px 0 rgba(254, 0, 0, 0.28);
 
     /*display: none;*/
+}
+
+.price-box1{
+    position: relative;
+}
+
+.tag{
+    position: absolute;
+    width: 200px;
+    top: 30%;
+    left: -38px;
 }
 
 
