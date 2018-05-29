@@ -1491,5 +1491,69 @@ padding-bottom: 70px;
     left: -38px;
 }
 
+/*popup style*/
+#bio_ep_close {
+    padding-top: 1px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-bottom: 2px;
+}
+
+#bio_ep {
+
+    background-color: #E74C3C !important;
+    text-align: center;
+}
+
+#bio_ep p {
+
+    color: white;
+}
+
+.booking {
+    margin-top: 30px !important;
+    width: 90%;
+    /*height: 8%;*/
+    margin: auto;
+    background-color: #A1352A;
+    border-radius: 5px;
+}
+
+.booking p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#bio_ep h1 {
+    padding-top: 10%;
+    color: white;
+    font-size: 74px;
+    font-weight: 800;
+    /*line-height: 10.2%;*/
+}
+
+.popup-content {
+    width: 85%;
+    margin: auto;
+}
+.popup-content p{
+    padding-top: 20px;
+    font-size: 32px;
+}
+.no a{
+    color: white;
+    font-size: 18px;
+    text-decoration: underline;
+}
+
+.no a:hover{
+    color: white;
+}
+.no{
+    padding-top: 20px;
+}
+.booking a:hover{
+    text-decoration: none;
+}
 
 
