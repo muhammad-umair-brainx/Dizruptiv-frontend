@@ -1517,6 +1517,7 @@ padding-bottom: 70px;
     margin: auto;
     background-color: #A1352A;
     border-radius: 5px;
+    box-shadow: 0 6px 2px -1px #8d2f24;
 }
 
 .booking p {
@@ -1540,7 +1541,7 @@ padding-bottom: 70px;
     padding-top: 20px;
     font-size: 32px;
 }
-.no a{
+.no p{
     color: white;
     font-size: 18px;
     text-decoration: underline;
