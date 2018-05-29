@@ -160,6 +160,7 @@ window.bioEp = {
 	},
 
 	// Hide the popup
+
 	hidePopup: function() {
 		this.bgEl.style.display = "none";
 		this.popupEl.style.display = "none";
@@ -252,6 +253,8 @@ window.bioEp = {
 		this.addEvent(this.closeBtnEl, "click", function() {
 			bioEp.hidePopup();
 		});
+
+
 
 		// Handle window resizing
 		this.addEvent(window, "resize", function() {

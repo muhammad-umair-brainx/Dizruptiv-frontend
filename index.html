@@ -37,7 +37,7 @@
     </script>
 </head>
 
-<body>
+<body id="body">
 <!--[if lte IE 9]>
   <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
 
@@ -785,7 +785,7 @@
         </div>
     </section>
 
-    <section class="popup">
+    <section id="popUp" class="popup">
         <div id="bio_ep">
             <div class="popup-content">
                 <h1>
@@ -798,7 +798,7 @@
                     <p>SECURE YOUR SEATS NOW</p>
                 </a></div>
                 <div class="no">
-                    <p>No, thanks. I would rather eat ketchup.</p>
+                    <p onclick="hidePopup()" > No, thanks. I would rather eat ketchup.</p>
                     <!--<a href="">No, thanks. I would rather eat ketchup.</a>-->
                 </div>
             </div>
@@ -853,7 +853,18 @@
 <script type="text/javascript" src="img/slick/slick.min.js"></script>
 
 <script>
+    function hidePopup() {
+        // this.bgEl.style.display = "none";
+        // this.popupEl.style.display = "none";
 
+        document.getElementById('bio_ep_bg').style.display = 'none';
+        document.getElementById('bio_ep').style.display = 'none';
+        document.getElementById('body').style.overflow = 'visible';
+
+
+        // Set body overflow back to default to show scrollbars
+        // document.body.style.overflow = this.overflowDefault;
+    }
 
     $(window).load(function () {
         $('.team').css('display', 'block');
